@@ -286,3 +286,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE par
 - [Documentación oficial de Apache Flink](https://flink.apache.org/docs/stable/)
 - [Documentación de FastAPI](https://fastapi.tiangolo.com/)
 - [Tutorial de PyFlink](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/python/overview/)
+
+  #Colaboradores:
+  Isai Diaz
+  Sebastian Ortiz
